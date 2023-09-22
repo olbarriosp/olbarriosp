@@ -1,16 +1,27 @@
-### Hi there 👋
+Hello Everyone ! :raising_hand_woman:
+I'm Olga Barrios and entusiasm by languages programmation. 
+=============================  
 
-<!--
-**olbarriosp/olbarriosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Manager / Datan science and  Physichs. 
+=============================  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I like swimming like an Olympic competitor.
+- I love to read everything (history, leadership, companies, thriller, classic novels).
+- I like to do more times the "Camino de Santiago". I did for the first time in the July-2023.
+- I'm physics by love science. My work is in sociophysics and econophysics.
+
+
+ :flying_saucer:  Some times between Mexico City(Mexico) and Bogota, Colombia. But frequently in the earth.
+----------------------------------------------  
+
+### Some of my portfolio:
+ <p align="left"> <a href="https://github.com/olbarriosp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> </p>
+
+- Programmer: Phython, R, HTLM, C++ (some times).
+- Tools: Tableau, Office, Asana.
+ 
+ ### You can find me in:
+ 
+ <p <a href="https://www.linkedin.com/in/olga-lucia-barrios-pulido/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+</p>
