@@ -2,7 +2,7 @@ Hello Everyone ! :raising_hand_woman:
 I'm Olga Barrios and entusiasm by languages programmation. 
 =============================  
 
-Project Manager / Datan science and  Physichs. 
+##### Project Manager / Data science and  Physichs. 
 =============================  
 
 
